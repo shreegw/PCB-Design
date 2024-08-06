@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-F_Cu.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-B_Cu.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-F_Paste.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-B_Paste.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-F_Mask.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-B_Mask.gbr'.
+Plotted to 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\sginu\OneDrive\Desktop\temp\kiCad Files\ESP8266_HomAuto\ESP8266_HomAuto-job.gbrjob'.
+Info: Done.

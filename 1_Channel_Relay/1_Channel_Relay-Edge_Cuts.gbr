@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
+%TF.CreationDate,2024-08-06T14:14:26-07:00*%
+%TF.ProjectId,ESP8266_HomAuto,45535038-3236-4365-9f48-6f6d4175746f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2024-08-06 14:14:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X110000000Y-62000000D02*
+X148500000Y-62000000D01*
+X148500000Y-98000000D01*
+X110000000Y-98000000D01*
+X110000000Y-62000000D01*
+M02*
